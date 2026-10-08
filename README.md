@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,100:9d7cd8&height=210&section=header&text=Doni%20Arman%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Systems%20%C2%B7%20Universitas%20Riau&descSize=18&descAlignY=56" width="100%"/>
 
 <p align="center">
+  <a href="https://doniarmans.github.io"><img src="https://img.shields.io/badge/Portfolio-doniarmans.github.io-2e7df6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" /></a>
   <a href="https://www.instagram.com/doniarmans1"><img src="https://img.shields.io/badge/Instagram-doniarmans1-bb9af7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27" /></a>
   <a href="https://web.facebook.com/doni.20123"><img src="https://img.shields.io/badge/Facebook-doni.20123-7aa2f7?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1b27" /></a>
   <a href="https://yuhengs.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-Yuhengs-9ece6a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" /></a>
